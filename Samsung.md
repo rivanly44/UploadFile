@@ -10,13 +10,11 @@ pkg update && pkg upgrade
 pkg install python2
 pkg install git
 pip2 install mechanize
-git clone 
-```https://github.com/rivanly44/Kenzo.com.git
-### Run this script
-```
+Git clone https://github.com/rivanly44/Kenzo.com.git
 cd hekel
 ls
 python2 hekel.py
-```
+
+
 
 
