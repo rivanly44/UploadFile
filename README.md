@@ -1,7 +1,7 @@
 <h1 align="center">
     🤙HEKEL🤙
 </h1>
-<a href="#"><img title="Author by Rum" src="https://img.shields.io/badge/Script%20By-MuhammadRizky-green?"></a>
+<a href="#"><img title="Author by Rum" src="https://img.shields.io/badge/Script%20By-RivanlyMkdmpt-green?"></a>
 <a href="#"><img title="Author by Rum" src="https://img.shields.io/badge/Code%20-python2.7-blue?"></a>
 
 ### Install
